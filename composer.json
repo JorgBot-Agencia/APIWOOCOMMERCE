@@ -1,0 +1,14 @@
+{
+    "name": "usuario/wooapi1",
+    "description": "API prueba woocomerce",
+    "license": "MTI",
+    "authors": [
+        {
+            "name": "Elias Guillermo Alvarez Arevalo",
+            "email": "ingenieroeliasalvarez@hotmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
